@@ -17,7 +17,5 @@ Born in 1997 in Murcia, Spain. Web development to build practical and attractive
 - LinkedIn: [Raul Cano](www.linkedin.com/in/raulmarco-in)
 - Email: [rawraul@outlook.com](mailto:rawraul@outlook.com)
 
-## 📊 GitHub Stats
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
