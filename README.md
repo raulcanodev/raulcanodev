@@ -11,7 +11,7 @@ Born in 1997 in Murcia, Spain. Web development to build practical and attractive
 - **Web Development**: HTML, CSS3, React, Django, Flask, Bootstrap, SASS
 - **Database**: MongoDB, MySQL
 - **Tools**: Git, VSC
-- **Deploy**: Hostinguer, AWS
+- **Deploy**: Hostinger, AWS
 - **OS**: macOS
 
 ## 📫 Contact Me
