@@ -8,9 +8,9 @@ Born in 1997 in Murcia, Spain. Web development to build practical and attractive
 
 ## 🚀 Skills
 - **Languages**: Python, JavaScript
-- **Web Development**: HTML, CSS, React, Django, Flask
+- **Web Development**: HTML, CSS3, React, Django, Flask, Bootstrap, SASS
 - **Database**: MongoDB, MySQL
-- **Tools**: Git, VSC, Docker, Pycharm
+- **Tools**: Git, VSC, Pycharm
 - **OS**: macOS
 
 ## 📫 Contact Me
