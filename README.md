@@ -31,8 +31,3 @@ Junior full stack developer specialized in web development, I'm 27 years old and
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 </div>
----
-
-
-
-
