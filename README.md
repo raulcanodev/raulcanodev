@@ -1,3 +1,5 @@
+<div align="center">
+
 # 💫 About Me:
 Junior full stack developer specialized in web development, I'm 27 years old and I live in Lisbon. My mother says that I developed this love for programming because when I was a child, I always played with Legos, and this is like digital Legos for adults, maybe she's right.
 
@@ -19,3 +21,4 @@ Junior full stack developer specialized in web development, I'm 27 years old and
 [![](https://visitcount.itsvg.in/api?id=raulcanodev&icon=5&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
