@@ -24,10 +24,12 @@ Junior full stack developer specialized in web development, I'm 27 years old and
 </div>
 
 # 😂 Random Dev Meme
+<div align="center">
+  
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=raulcanodev&icon=5&color=3)](https://visitcount.itsvg.in)
 
 
-
+</div>
