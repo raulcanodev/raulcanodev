@@ -24,10 +24,3 @@ Junior full stack developer specialized in web development, I'm 27 years old and
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=raulcanodev&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
-
-# 😂 Random Dev Meme
-<div align="center">
-  
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
-</div>
