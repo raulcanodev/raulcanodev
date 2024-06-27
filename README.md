@@ -15,7 +15,7 @@ Junior full stack developer specialized in web development, I'm 27 years old and
 <div align="center">
 
 <span>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raulcanodev&theme=vue-dark&hide_border=true" alt="streak-stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raulcanodev&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false" alt="github-stats" />
 </span>
 <span>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulcanodev&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="top-langs" />
