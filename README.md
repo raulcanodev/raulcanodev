@@ -15,12 +15,3 @@ My mother says that I developed this love for programming because when I was a c
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-<div align="center">
-  
-<span>
-  <img src="https://github-readme-stats.vercel.app/api?username=raulcanodev&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false" alt="github-stats" />
-</span>
-<span>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulcanodev&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="top-langs" />
-</span>
-</div>
