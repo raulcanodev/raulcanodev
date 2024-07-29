@@ -5,7 +5,6 @@ Junior full stack developer, I'm 27 years old and I live in Lisbon.</br>
 My mother says that I developed this love for programming because when I was a child, I always played with Legos, and this is like digital Legos for adults, maybe she's right.
 
 
-
 ### 9-5 at work:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![JSON](https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum-%23000000.svg?style=for-the-badge&logo=scrum&logoColor=white)
 
