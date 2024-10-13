@@ -5,4 +5,4 @@ My mother says that I developed this love for programming because when I was a c
 
 [raulcano.dev](https://raulcano.dev)
 
-![infojobs-logo](https://github.com/user-attachments/assets/e7e14904-769a-405c-b7ef-0b5cd308491d)
+
