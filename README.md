@@ -5,10 +5,3 @@ My mother says that I developed this love for programming because when I was a c
 I love reading random people's blogs I find randomly on the internet.
 
 📍 [raulcano.dev](https://raulcano.dev)
-
-
-<br/>
-<br/>
-https://green-dots.vercel.app
-<br/>
-https://cvpage.to
